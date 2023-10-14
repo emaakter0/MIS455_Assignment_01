@@ -5,7 +5,7 @@
     margin-left:150px;
     margin-top: 10px;
     margin-right:50px;
-    /* border: 2px solid green; */
+    /* border: 1px solid green;  */
     padding: 10px;
     margin: 20px;
 
@@ -13,6 +13,7 @@
 .background{
     
      margin: left 150px;
+     /* margin: right 50px */
 
 }
 
@@ -111,7 +112,7 @@ h3{
 }
 .third_box{
     width: 300px;
-    border: 1px solid green;
+    border: 1px solid black;
     padding: 10px;
     margin: 20px;
     background-color:ivory;
