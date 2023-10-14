@@ -4,8 +4,8 @@
     background-color:snow;
     margin-left:150px;
     margin-top: 10px;
-    margin-right:50px;
-    /* border: 1px solid green;  */
+    margin-right:60px;
+    /* border: 1px solid green;   */
     padding: 10px;
     margin: 20px;
 
@@ -13,7 +13,6 @@
 .background{
     
      margin: left 150px;
-     /* margin: right 50px */
 
 }
 
@@ -28,7 +27,7 @@ h1{
     
 }
 h3{
-    margin-left:2px;
+    margin: left 2px;
     text-emphasis-style: bold;
     color:black;
     
@@ -82,7 +81,7 @@ h3{
     
     margin-top: 350px;
     margin-bottom: 15px;
-    background-color:rgb(210, 210, 227); 
+    background-color:rgb(210, 210, 227);
     /* box-shadow: 5px 5px green, 10px 10px blue, 15px 15px black; */
     
 }
